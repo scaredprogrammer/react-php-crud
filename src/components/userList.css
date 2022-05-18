@@ -1,0 +1,18 @@
+td ,th{
+    border: 1px solid black;
+}
+table{
+    width: 100%;
+}
+
+.inputdiv{
+    padding: 5px;
+    margin:5px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+}
+input{
+    width: 100px;
+}
+
+
